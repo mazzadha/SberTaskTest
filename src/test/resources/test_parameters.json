@@ -1,0 +1,9 @@
+{
+  "successCheckName": "Sherlock",
+  "MainIdMin": 0,
+  "MainIdMax": 10,
+  "detectiveCountMin": 1,
+  "detectiveCountMax": 3,
+  "CategoryIdMin": 1,
+  "CategoryIdMax": 2
+}
